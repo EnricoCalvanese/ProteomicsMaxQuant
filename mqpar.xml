@@ -201,8 +201,46 @@
    </fractions>
    <ptms>
       <boolean>False</boolean>
+      <boolean>False</boolean>
+      <boolean>False</boolean>
+      <boolean>False</boolean>
+      <boolean>False</boolean>
+      <boolean>False</boolean>
+      <boolean>False</boolean>
+      <boolean>False</boolean>
+      <boolean>False</boolean>
+      <boolean>False</boolean>
+      <boolean>False</boolean>
+      <boolean>False</boolean>
+      <boolean>False</boolean>
+      <boolean>False</boolean>
+      <boolean>False</boolean>
+      <boolean>False</boolean>
+      <boolean>False</boolean>
+      <boolean>False</boolean>
+      <boolean>False</boolean>
+      <boolean>False</boolean>
    </ptms>
    <paramGroupIndices>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
       <int>0</int>
    </paramGroupIndices>
    <referenceChannel>
